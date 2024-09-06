@@ -1,4 +1,4 @@
- # QUEEN-ANITA-V2 
+ # LUERHEEM-GEAN-V2 
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
@@ -21,7 +21,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## QUEEN_ANITA-V2 Deployment Methods
+ ## LUERHEEM_GEAN-V2 Deployment Methods
 
 ### 1. FORK THIS REPO
 
@@ -68,7 +68,7 @@
     <a href='https://railway.com/github/Deeceexxx/Queen_Anita-V2' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
     <h2 align="center"> ⚠️ NOTE  </h2>
-## QUEEN_ANITA-V2 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
+## LUERHEEM_GEAN-V2 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
@@ -93,9 +93,9 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 
-- *Queen_Anita-V2 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Luerheem_Gean-V2 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Queen_Anita-V2 at your own risk by keeping this warning in mind.*
+- *Use Luerheem_Gean-V2 at your own risk by keeping this warning in mind.*
   
   #### ```DAVID CYRIL PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
